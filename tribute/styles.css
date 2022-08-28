@@ -1,0 +1,59 @@
+
+
+.main{
+
+    /* background-color: rgba(173, 216, 230, 0.752); */
+    background-image: url(https://www.himalmag.com/wp-content/uploads/2020/10/Cricket_World_Cup_2015_15999498423.jpg);
+   
+    background-repeat: no-repeat;
+    background-size: 2500px;
+
+}
+
+.thumbnail{
+    margin: 0 75px  ;
+    background-color: rgba(215, 234, 237, 0.285);
+    padding: 40px;
+    text-decoration: solid;
+  
+}
+#bio{
+    /* background-color: skyblue; */
+    background-image: url(https://thesportsgrail.com/wp-content/uploads/2021/05/Virat-kohli-India.jpg);
+    background-repeat: no-repeat;
+    margin-left: 110px;
+}
+
+ .thumbnail , .record1 , .record2 , .record3 {
+    text-align: center;
+} 
+
+.img{
+    padding: 20px
+}
+
+.profile{
+    margin: 8% 0;
+    padding: 5%;
+    width: 500px;
+    height: 400px;
+}
+
+
+.ipl{
+  
+   margin: 8% 0;
+    padding: 3%;
+    height: 400px;
+    width: 500px;
+}
+
+.thank-you{
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    background-color: rgb(2, 5, 25);
+   
+    height: 100px;
+    
+}
